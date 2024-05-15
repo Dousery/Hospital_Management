@@ -1,0 +1,14 @@
+AppointmentNo,DoctorID,PatientID,Date,Status
+Notes
+1,22,5592110,31.05.2023 3:30 PM,Pending
+None
+5,22,5592110,04.12.2024 3:20 PM,Pending
+None
+3,22,5592110,22.05.2023 3:30 PM,Done
+Patient has tonsillitis.
+4,22,5592110,28.05.2023 3:30 PM,Cancelled
+Delayed for tomorrow.
+2,22,5592110,29.05.2023 3:30 PM,Done
+He's perfectly healthy
+6,22,33215,12.04.2023 3:20 PM,Done
+Awesome
